@@ -1,1 +1,2 @@
 # task
+print("hi")
